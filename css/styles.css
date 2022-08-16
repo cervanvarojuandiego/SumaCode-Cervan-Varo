@@ -65,5 +65,15 @@ button:hover{
     max-width: 1400px;
     margin: auto;
 }
+#inicio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 90vh;
+    background-image: url("/media/prueba.jpg");
+}
+
 
 
